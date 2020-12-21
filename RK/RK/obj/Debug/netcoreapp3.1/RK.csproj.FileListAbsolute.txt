@@ -1,0 +1,13 @@
+E:\C#\RK\RK\bin\Debug\netcoreapp3.1\RK.exe
+E:\C#\RK\RK\bin\Debug\netcoreapp3.1\RK.deps.json
+E:\C#\RK\RK\bin\Debug\netcoreapp3.1\RK.runtimeconfig.json
+E:\C#\RK\RK\bin\Debug\netcoreapp3.1\RK.runtimeconfig.dev.json
+E:\C#\RK\RK\bin\Debug\netcoreapp3.1\RK.dll
+E:\C#\RK\RK\bin\Debug\netcoreapp3.1\RK.pdb
+E:\C#\RK\RK\obj\Debug\netcoreapp3.1\RK.csprojAssemblyReference.cache
+E:\C#\RK\RK\obj\Debug\netcoreapp3.1\RK.AssemblyInfoInputs.cache
+E:\C#\RK\RK\obj\Debug\netcoreapp3.1\RK.AssemblyInfo.cs
+E:\C#\RK\RK\obj\Debug\netcoreapp3.1\RK.csproj.CoreCompileInputs.cache
+E:\C#\RK\RK\obj\Debug\netcoreapp3.1\RK.dll
+E:\C#\RK\RK\obj\Debug\netcoreapp3.1\RK.pdb
+E:\C#\RK\RK\obj\Debug\netcoreapp3.1\RK.genruntimeconfig.cache

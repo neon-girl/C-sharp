@@ -1,0 +1,6 @@
+E:\C#\ДЗ\Distant\MyLib\bin\Debug\MyLib.dll
+E:\C#\ДЗ\Distant\MyLib\bin\Debug\MyLib.pdb
+E:\C#\ДЗ\Distant\MyLib\obj\Debug\MyLib.csproj.CoreCompileInputs.cache
+E:\C#\ДЗ\Distant\MyLib\obj\Debug\MyLib.dll
+E:\C#\ДЗ\Distant\MyLib\obj\Debug\MyLib.pdb
+E:\C#\ДЗ\Distant\MyLib\obj\Debug\MyLib.csprojAssemblyReference.cache

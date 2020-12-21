@@ -1,0 +1,13 @@
+E:\C#\Lab.5\DistLev\Distant\bin\Debug\Distant.exe.config
+E:\C#\Lab.5\DistLev\Distant\bin\Debug\Distant.exe
+E:\C#\Lab.5\DistLev\Distant\bin\Debug\Distant.pdb
+E:\C#\Lab.5\DistLev\Distant\bin\Debug\MyLib.dll
+E:\C#\Lab.5\DistLev\Distant\bin\Debug\MyLib.pdb
+E:\C#\Lab.5\DistLev\Distant\obj\Debug\DistLev.csprojAssemblyReference.cache
+E:\C#\Lab.5\DistLev\Distant\obj\Debug\DistLev.Form1.resources
+E:\C#\Lab.5\DistLev\Distant\obj\Debug\Distant.Properties.Resources.resources
+E:\C#\Lab.5\DistLev\Distant\obj\Debug\DistLev.csproj.GenerateResource.cache
+E:\C#\Lab.5\DistLev\Distant\obj\Debug\DistLev.csproj.CoreCompileInputs.cache
+E:\C#\Lab.5\DistLev\Distant\obj\Debug\DistLev.csproj.CopyComplete
+E:\C#\Lab.5\DistLev\Distant\obj\Debug\Distant.exe
+E:\C#\Lab.5\DistLev\Distant\obj\Debug\Distant.pdb

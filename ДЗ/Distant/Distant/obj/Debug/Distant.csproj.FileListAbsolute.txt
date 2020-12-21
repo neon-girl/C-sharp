@@ -1,0 +1,13 @@
+E:\C#\ДЗ\Distant\Distant\bin\Debug\Distant.exe.config
+E:\C#\ДЗ\Distant\Distant\bin\Debug\Distant.exe
+E:\C#\ДЗ\Distant\Distant\bin\Debug\Distant.pdb
+E:\C#\ДЗ\Distant\Distant\obj\Debug\Distant.csprojAssemblyReference.cache
+E:\C#\ДЗ\Distant\Distant\obj\Debug\Distant.Properties.Resources.resources
+E:\C#\ДЗ\Distant\Distant\obj\Debug\Distant.csproj.GenerateResource.cache
+E:\C#\ДЗ\Distant\Distant\obj\Debug\Distant.csproj.CoreCompileInputs.cache
+E:\C#\ДЗ\Distant\Distant\obj\Debug\Distant.exe
+E:\C#\ДЗ\Distant\Distant\obj\Debug\Distant.pdb
+E:\C#\ДЗ\Distant\Distant\bin\Debug\MyLib.dll
+E:\C#\ДЗ\Distant\Distant\bin\Debug\MyLib.pdb
+E:\C#\ДЗ\Distant\Distant\obj\Debug\Distant.Form1.resources
+E:\C#\ДЗ\Distant\Distant\obj\Debug\Distant.csproj.CopyComplete
